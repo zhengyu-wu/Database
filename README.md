@@ -1,6 +1,15 @@
-# <key,value> database based on B+tree
+# <key,value> database based on B+tree 💾
 
-## Interfaces
+### Features 👻
+
+- B+ tree data structure
+- Space Recycle
+- Cache
+- Buffer
+- Variable length value
+
+
+### Interfaces 🤓
 
 - Create a database handle
   - DBHANDLE* db；
@@ -37,15 +46,15 @@
 - buffer.cpp
   - Write buffer
 
-## Test
+### Test 🧐
 
-### Correctness test
+#### Correctness test
 
 - correctness.cpp
 - abnormal.cpp
 - allround_test.cpp
 
-### Performance test
+#### Performance test
 
 - space_test.cpp
 - read_buffer_test.cpp
