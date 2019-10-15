@@ -26,7 +26,7 @@
 - Search data
   - char* db_fetch(DBHANDLE *db, const char* key)
 
-## Modules
+### Modules 😇
 
 - BPlusTree.cpp
   - Base class: Node
