@@ -1,4 +1,4 @@
-# <key,value> database based on B+tree 💾
+# <key,value> database 💾
 
 ### Features 👻
 
